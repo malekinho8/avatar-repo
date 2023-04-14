@@ -97,3 +97,8 @@ To contribute effectively to this project, perform the following steps:
 2. Clone the repo to your local drive
 
 Also some general guidelines, please use as much commenting as possible so the code will be easier for others to read going forward! (P.S. you can use ChatGPT to automatically generate in-line comments for your code)
+
+## TODO 📝
+
+□ Add C# code provided in Lab to repository
+□ Add mock mobile robot communication functionality
